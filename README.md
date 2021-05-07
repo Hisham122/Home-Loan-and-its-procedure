@@ -3,7 +3,7 @@ One of the key phases of the home loan process is approval or sanction. The bank
 
 SBI Home Loans is India's largest mortgage lender, having assisted over 30 lakh families in achieving their dream of homeownership. SBI Home Loans is a one-stop shop for one who wants to buy a house. You can look over a selection of home loan items, determine your eligibility, and apply online for a home loan. As of now, the bank provides home loans with interest rates starting at 6.70 percent and low processing fees starting at Rs.10,000 minimum. SBI provides home loans with low-interest rates and clear criteria. SBI provides a variety of personalized home loan offers for various categories of home loan borrowers. 
 
-Features 
+<b>Features <b/>
 
 •	Home Loans are available in a variety of formats to fit all budgets.
 
