@@ -6,16 +6,27 @@ SBI Home Loans is India's largest mortgage lender, having assisted over 30 lakh 
 Features 
 
 •	Home Loans are available in a variety of formats to fit all budgets.
+
 •	Housing loans are available for the purchasing of new or pre-owned flats and homes, as well as for the building of new or existing buildings, as well as for the expansion and/or repair of existing properties.
+
 •	Interest rates are competitive, and processing fees are low.
+
 •	SBI charges interest on a regular decreasing balance. As a result, EMIs have a low-interest liability.
+
 •	For loans up to 20 lakhs, the maximum LTV is 90% of the property value.
+
 •	For loans above 20 lakhs, the maximum LTV is 80% of the property value.
+
 •	The longest repayment period available is 30 years.
+
 •	Current customers can use the overdraft service.
+
 •	Borrowers who are women will receive a 5% interest rate reduction.
+
 •	There are over 24000 branches throughout India.
+
 •	The status of your SBI home loan application can be tracked online.
+
 
 Eligibility criteria
 
