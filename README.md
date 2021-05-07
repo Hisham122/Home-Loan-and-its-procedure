@@ -3,7 +3,7 @@ One of the key phases of the home loan process is approval or sanction. The bank
 
 SBI Home Loans is India's largest mortgage lender, having assisted over 30 lakh families in achieving their dream of homeownership. SBI Home Loans is a one-stop shop for one who wants to buy a house. You can look over a selection of home loan items, determine your eligibility, and apply online for a home loan. As of now, the bank provides home loans with interest rates starting at 6.70 percent and low processing fees starting at Rs.10,000 minimum. SBI provides home loans with low-interest rates and clear criteria. SBI provides a variety of personalized home loan offers for various categories of home loan borrowers. 
 
-<b>Features <b/>
+<b>Features<b/>
 
 •	Home Loans are available in a variety of formats to fit all budgets.
 
@@ -28,7 +28,7 @@ SBI Home Loans is India's largest mortgage lender, having assisted over 30 lakh 
 •	The status of your SBI home loan application can be tracked online.
 
 
-<b>Eligibility criteria<b/>
+<b>Eligibility criteria</b>
 
 The threshold age of the applicant must be above 18 years, and the maximum age of the applicant should be below 70 years. The home loan facility is available to both Indian residents and Non-residential Indians (NRIs). Both salaried and self-employed individuals are qualified to apply. SBI Home Loan Eligibility Calculator is a virtual tool that assists SBI home loan borrowers in determining their eligibility for a home loan. The eligibility calculator considers a variety of parameters, including the applicant's income, age, employment status, job, and credit score—the eligibility calculator aids in determining one's ability and repayment capacity for a home loan. If your loan eligibility is less than the amount you need, you may also add a co-applicant.
 
