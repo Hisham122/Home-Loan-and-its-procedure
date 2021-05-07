@@ -1,0 +1,2 @@
+# Home-Loan-and-its-procedure
+Filling the application form is the primary step in the process of getting a home loan. A few basic details about the borrower will be required for this loan application. The applicant must pay the processing fee to the bank after completing the structured application and document submission process. To ensure that the bank accepts the paperwork as quickly as possible, the applicant must be straightforward in the entire process.
